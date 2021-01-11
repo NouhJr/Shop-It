@@ -1,16 +1,5 @@
-# shopping_app
+# Shop It
+E-Commerce application for shopping developed with flutter and firebase, in this application user could browse the available products and add products to cart and review it, user also can sign up and create account and use this account later to sign in, user also can edit his profile and change his profile picture. 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Demo Video
+https://www.dropbox.com/s/m3qo5qekadtc97x/120824435_1292362394441110_2176712850101259033_n.mp4?dl=0
